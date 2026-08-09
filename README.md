@@ -8,6 +8,8 @@ Aplicação de timer no estilo Pomodoro desenvolvida com React e TypeScript, com
 - [TypeScript](https://www.typescriptlang.org/) — tipagem estática
 - [Vite](https://vitejs.dev/) — bundler e servidor de desenvolvimento
 - [Styled Components](https://styled-components.com/) — estilização
+- [React Hook Form](https://react-hook-form.com/) — controle de formulários
+- [Zod](https://zod.dev/) — validação de esquemas
 
 ## Funcionalidades
 
@@ -18,11 +20,17 @@ Aplicação de timer no estilo Pomodoro desenvolvida com React e TypeScript, com
 
 ## Como Executar
 
-```bash
+\`\`\`bash
 npm install
 npm run dev
-```
+\`\`\`
+
+## Deploy
+
+[Ignite Timer](https://ignite-timer-chi.vercel.app/)
 
 ## Sobre
 
 Projeto desenvolvido durante o curso Ignite da [Rocketseat](https://www.rocketseat.com.br/), com foco em React avançado, TypeScript, Context API e useReducer.
+
+> Desenvolvido por **Yasmin Ferrari Dias** 🚀
