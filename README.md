@@ -1,6 +1,6 @@
 # Ignite Timer
 
-Aplicação de timer no estilo Pomodoro desenvolvida com React e TypeScript, com controle de ciclos de foco e histórico de atividades.
+Aplicação de timer no estilo Pomodoro desenvolvida com React e TypeScript, com controle de ciclos de foco e histórico de atividades. Desenvolvido durante o curso Ignite da Rocketseat, com foco em React avançado, Context API e useReducer.
 
 ## Tecnologias
 
@@ -18,19 +18,6 @@ Aplicação de timer no estilo Pomodoro desenvolvida com React e TypeScript, com
 - Interrupção do ciclo em andamento
 - Histórico de ciclos com status (concluído, interrompido ou em andamento)
 
-## Como Executar
-
-\`\`\`bash
-npm install
-npm run dev
-\`\`\`
-
 ## Deploy
 
-[Ignite Timer](https://ignite-timer-chi.vercel.app/)
-
-## Sobre
-
-Projeto desenvolvido durante o curso Ignite da [Rocketseat](https://www.rocketseat.com.br/), com foco em React avançado, TypeScript, Context API e useReducer.
-
-> Desenvolvido por **Yasmin Ferrari Dias** 🚀
+[Acessar o site](https://ignite-timer-chi.vercel.app/)
